@@ -1,7 +1,69 @@
-asgiref==3.5.0
-Django==3.2.12
-django-crispy-forms==1.14.0
-Pillow==9.0.1
-pytz==2021.3
-sqlparse==0.4.2
-typing-extensions==4.1.1
+Pip install asgiref==3.5.2
+Pip install atomicwrites==1.4.1
+Pip install attrs==22.1.0
+Pip install autopep8==1.4.4
+Pip install beautifulsoup4==4.11.1
+Pip install bleach==3.3.0
+Pip install certifi==2019.3.9
+Pip install chardet==3.0.4
+Pip install charset-normalizer==2.1.1
+Pip install click==8.1.3
+Pip install colorama==0.4.6
+Pip install DateTime==4.7
+Pip install defusedxml==0.6.0
+Pip install distlib==0.3.6
+Pip install dj-database-url==0.3.0
+Pip install dj-static==0.0.6
+Pip install Django==3.1.12
+Pip install django-allauth==0.39.1
+Pip install django-autoslug==1.9.8
+Pip install django-contrib-comments==2.2.0
+Pip install django-countries==5.3.3
+Pip install django-crispy-forms==1.9.0
+Pip install django-debug-toolbar==1.10.1
+Pip install django-stdimage==6.0.1
+Pip install django-taggit==3.0.0
+Pip install filelock==3.8.0
+Pip install Flask==2.2.2
+Pip install gunicorn==20.0.4
+Pip install idna==2.8
+Pip install itsdangerous==2.1.2
+Pip install Jinja2==3.1.2
+Pip install Markdown==3.4.1
+Pip install MarkupSafe==2.1.1
+Pip install more-itertools==9.0.0
+Pip install oauthlib==3.0.1
+Pip install packaging==21.3
+Pip install pep8==1.7.1
+Pip install Pillow==9.0.1
+Pip install platformdirs==2.5.2
+Pip install pluggy==0.13.1
+Pip install py==1.11.0
+Pip install pycodestyle==2.10.0
+Pip install pyparsing==3.0.9
+Pip install pytest==5.4.1
+Pip install pytest-django==3.9.0
+Pip install python-decouple==3.0
+Pip install python-dotenv==0.12.0
+Pip install python3-openid==3.1.0
+Pip install pytz==2018.5
+Pip install requests==2.21.0
+Pip install requests-oauthlib==1.2.0
+Pip install six==1.14.0
+Pip install soupsieve==2.3.2.post1
+Pip install sqlparse==0.2.4
+Pip install static3==0.7.0
+Pip install stripe==2.27.0
+Pip install tzdata==2022.6
+Pip install Unipath==1.0
+Pip install urllib3==1.24.2
+Pip install virtualenv==20.16.6
+Pip install wcwidth==0.2.5
+Pip install webencodings==0.5.1
+Pip install Werkzeug==2.2.2
+Pip install whitenoise==5.0.1
+Pip install zope.interface==5.5.1
+
+-> python manage.py makemigrations
+-> python manage.py migrate
+-> python manage.py runserver
